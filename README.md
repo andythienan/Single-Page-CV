@@ -1,1 +1,1 @@
-https://single-page-cv-green.vercel.app/
+Project URL: https://single-page-cv-green.vercel.app/
